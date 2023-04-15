@@ -1,0 +1,10 @@
+.navbackground{
+    background-color: #f58b12;
+}
+.cartBtn{
+    background-color: #d37102;
+    border: none;
+}
+.cartBtn:hover{
+    background: #e38315;
+}
